@@ -10,7 +10,7 @@ function About() {
     "CSS",
     "Node Js",
     "MongoDB",
-    "ExperJS",
+    "Experss JS",
     "KotLin",
 
   ];
@@ -58,7 +58,7 @@ function About() {
                   Graphic Era Hill University (2022-2026)
                 </li>
                 <li>
-                  CSE, Data Structure, Web Development, Andriod Devlopment
+                  Data Structure, Web Development, Andriod Devlopment,Machine Learning Algorithms
                 </li>
               </ul>
             </div>

@@ -9,7 +9,7 @@ function Projects() {
   const [projects] = useState([
     {
       image: ecommerce,
-      name: "Dashboard App",
+      name: "Ecommer Website",
       brief:
         "Your MERN Stack E-commerce Website is a full-stack web application built using MongoDB, Express.js, React.js, and Node.js (MERN stack). This project provides a feature-rich online shopping platform with functionalities like user authentication, product management, order processing, and payment integration.",
       techStack: ["MongoDB", "Express.js", "React.js", "Node.js"],
