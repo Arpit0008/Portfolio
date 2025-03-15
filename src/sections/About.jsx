@@ -1,6 +1,8 @@
 import RevealOnScroll from "../Ui/RevealOnScroll";
 function About() {
   const skills = [
+    "Java",
+    "C++",
     "Html",
     "Css",
     "Javascript",
